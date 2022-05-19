@@ -1,0 +1,73 @@
+
+.navbar-nav {
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+ footer{
+     margin-top: 50px;
+ }
+ 
+ 
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    
+    .icon{
+      margin-top: 10px;
+    }
+
+    .card-columns{
+        margin-right: 200px;
+        margin-left: 200px;
+    }
+
+    .card-columns {
+        @include media-breakpoint-onlylg
+          column-count: 4;
+        
+        @include media-breakpoint-onlyxl
+          column-count: 5;
+        }
+.margins{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+ .margin{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+   .position{
+            float: right; 
+            margin-left: 30px;
+            margin-right: 300px;
+            padding-right:10px:
+
+        }
+        .ttext {
+            text-align: justify;
+            font-size: 22px;
+            margin-right: 300px;
+            margin-left: 300px;
+  
+        }
+
+        body{
+          background-image: linear-gradient(white, #fff6cc);
+        }
+
+        h1{
+          text-align: center;
+          margin-right: 150px;
+          margin-left: 150px;
+        }
+       

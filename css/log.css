@@ -1,0 +1,29 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+.image {
+    padding: 5px;
+    width: 150px;
+  }
+
+  body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    background-image: url('../img/bk2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }

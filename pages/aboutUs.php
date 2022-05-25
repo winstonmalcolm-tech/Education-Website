@@ -166,36 +166,6 @@
  as the world continues to expand in the digital age.
       </p>
    
-      <br><br><h1>Founders</h1><br>  
-
-<div class = "margin">
-
-<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="../img/avon.png" alt="Picture of founder" height = "180" width = "180">
-    <div class="card-body">
-      <h5 class="card-title">Avon Allen</h5>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="../img/yoneike.png" alt="Picture of founder" height = "180" width = "180">
-    <div class="card-body">
-      <h5 class="card-title">Yoneike Gordon</h5>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="../img/caswell.png" alt="Picture of founder" height = "180" width = "280">
-    <div class="card-body">
-      <h5 class="card-title">Caswell Toranty</h5>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="../img/winston.png" alt="Picture of founder" height = "180" width = "280">
-    <div class="card-body">
-      <h5 class="card-title">Winston Malcolm</h5>
-    </div>
-  </div>
-</div><br><br>
 
 <div class="card bg-dark text-white">
   <img class="card-img" src="../img/abstract.jpg" alt="Card image for Mission Statement" height = "300"  >

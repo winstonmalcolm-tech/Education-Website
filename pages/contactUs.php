@@ -87,7 +87,7 @@
               </div>
               <?php else : ?>
                         <li class="nav-item">
-                        <a class="nav-item nav-link" href="./pages/log.php">LOGIN &nbsp</a>
+                        <a class="nav-item nav-link" href="./log.php">LOGIN &nbsp</a>
                         </li>
                     <?php endif; ?>
             </li>
